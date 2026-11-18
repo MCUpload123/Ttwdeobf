@@ -543,9 +543,6 @@ Luraph and related names belong to their respective owners.
 ---
 
 # Credits
-
-Developed and maintained by **KryptIT / larpcorrupt**.
-
 Repository:
 
-https://github.com/KryptIT/luraph-v15-v14.x-deobfuscator
+https://github.com/MCUpload123/Ttwdeobf/
